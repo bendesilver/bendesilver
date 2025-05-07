@@ -1,9 +1,9 @@
-# 👋 Hi, I'm [Benjamin Akwasi Pagyakotwere Boadu]  
+# 👋 Hi, I'm Benjamin Akwasi Pagyakotwere Boadu  
 Cybersecurity & Digital Forensics Student | Aspiring Security Analyst/Researcher  
 
 
 🔍 About Me  
-I’m a passionate cybersecurity and digital forensics student at [Akenten Appiah-Menka University of Skills Training and Entrepreneurial Development (AAMUSTED)], dedicated to exploring the intersection of technology, security, and investigative analysis. My interests include:  
+I’m a passionate cybersecurity and digital forensics student at Akenten Appiah-Menka University of Skills Training and Entrepreneurial Development (AAMUSTED), dedicated to exploring the intersection of technology, security, and investigative analysis. My interests include:  
 - 🛡️ Threat detection & incident response  
 - 🔍 Digital forensics & malware analysis  
 - 🕵️ OSINT (Open-Source Intelligence)  
@@ -25,7 +25,7 @@ Programming/Scripting
 
 📚 Education  
 -BSc in Cybersecurity & Digital Forensics  
--[Akenten Appiah-Menka University of Skills Training and Entrepreneurial Development (AAMUSTED)] | Expected Graduation: [2027]  
+-Akenten Appiah-Menka University of Skills Training and Entrepreneurial Development (AAMUSTED) | Expected Graduation: 2027  
 -Relevant Coursework: Network Security, Cryptography, Incident Response, Cyber Law  
 
  🎯 Goals  
