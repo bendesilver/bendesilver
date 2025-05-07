@@ -26,7 +26,7 @@ Programming/Scripting
 📚 Education  
 -BSc in Cybersecurity & Digital Forensics  
 -Akenten Appiah-Menka University of Skills Training and Entrepreneurial Development (AAMUSTED) | Expected Graduation: 2027  
--Relevant Coursework: Network Security, Cryptography, Incident Response, Cyber Law  
+-Relevant Coursework: Network Security, Cryptography, Incident Response, Cyber Law, Digital Forensics  
 
  🎯 Goals  
 - Contribute to open-source cybersecurity tools.    
