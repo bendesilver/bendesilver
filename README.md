@@ -15,7 +15,6 @@ Cybersecurity Tools
 - Network Analysis: Wireshark, Nmap, tcpdump  
 - Forensics: Autopsy, FTK Imager, Volatility, Sleuth Kit  
 - Penetration Testing: Metasploit, Burp Suite, Kali Linux  
-- SIEM: Splunk, ELK Stack  
 
 Programming/Scripting 
 - Python | Bash | PowerShell  
