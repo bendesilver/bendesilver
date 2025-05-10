@@ -5,8 +5,7 @@ Cybersecurity & Digital Forensics Student | Aspiring Security Analyst/Researcher
 🔍 About Me  
 I’m a passionate cybersecurity and digital forensics student at Akenten Appiah-Menka University of Skills Training and Entrepreneurial Development (AAMUSTED), dedicated to exploring the intersection of technology, security, and investigative analysis. My interests include:  
 - 🛡️ Threat detection & incident response  
-- 🔍 Digital forensics & malware analysis  
-- 🕵️ OSINT (Open-Source Intelligence)  
+- 🔍 Digital forensics 
 - 🔒 Secure coding practices & ethical hacking  
 
 I’m constantly learning and experimenting with tools and techniques to better understand how to protect systems and investigate cyber incidents.
