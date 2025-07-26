@@ -13,7 +13,7 @@ I’m constantly learning and experimenting with tools and techniques to better 
  🛠️ Technical Skills  
 Cybersecurity Tools  
 - Network Analysis: Wireshark, Nmap, tcpdump  
-- Forensics: Autopsy, FTK Imager, Volatility, Sleuth Kit  
+- Forensics: Autopsy, FTK Imager, OS Forensics, Sleuth Kit  
 - Penetration Testing: Metasploit, Burp Suite, Kali Linux  
 
 Programming/Scripting 
@@ -24,7 +24,7 @@ Programming/Scripting
 📚 Education  
 -BSc in Cybersecurity & Digital Forensics  
 -Akenten Appiah-Menka University of Skills Training and Entrepreneurial Development (AAMUSTED) | Expected Graduation: 2027  
--Relevant Coursework: Network Security, Cryptography, Incident Response, Cyber Law, Digital Forensics  
+-Relevant Coursework: Network Security, Cyber Law, Digital Forensics  
 
  🎯 Goals  
 - Contribute to open-source cybersecurity tools.    
