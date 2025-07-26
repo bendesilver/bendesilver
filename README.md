@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Benjamin Akwasi Pagyakotwere Boadu  
-Cybersecurity & Digital Forensics Student | Aspiring Security Analyst/Researcher  
+Cybersecurity & Digital Forensics Student | Aspiring Security Analyst  
 
 
 🔍 About Me  
