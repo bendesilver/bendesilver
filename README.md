@@ -28,7 +28,6 @@ Programming/Scripting
 -Relevant Coursework: Network Security, Cyber Law, Digital Forensics  
 
  🎯 Goals  
-- To Log Management & Correlation    
 - Threat Intelligence Integration
 - Protect Assets & Data
 - Forensics & Investigation
