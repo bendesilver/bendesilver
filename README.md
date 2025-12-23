@@ -35,7 +35,7 @@ Programming/Scripting
 
 📫 Let's Connect  
  
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/benjamin-akwasi-pagyakotwere-boadu-736b56301)
+- LinkedIn: [My Profile](https://www.linkedin.com/in/benjamin-akwasi-pagyakotwere-boadu-736b56301)
 -  Email: bendesilver@proton.me
 
 
